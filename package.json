@@ -1,0 +1,14 @@
+{
+	"name": "ParisWc",
+	"version": "1.0.0",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/lakitrid/ParisWC.git"
+	},
+	"license": "GPL-2.0",
+	"dependencies": {
+		"bootstrap" : "*",
+		"font-awesome": "*",
+		"jquery": "*"
+	}
+}
